@@ -35,12 +35,11 @@ I'm a Computer Science student at **Texas A&M University** (Class of 2027) with 
 - **Cloud & Tools**: AWS, Google Cloud Platform, Docker, Linux/Unix, Git, GitHub, CI/CD, Visual Studio / VS Code
 
 ---
+### 📊 GitHub Overview
 
-### 📈 GitHub Snapshot
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutwik&layout=compact&hide=c,makefile&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutwik&show_icons=true&theme=default)
-
----
+--- 
 
 ### 📫 Get in Touch
 
